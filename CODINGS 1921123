@@ -91,7 +91,7 @@ Perimeter of Circle is: = 28.29
 Area of Circle is: = 63.64
 Volume of Circle is: = 381.86
 
-4) Program to find Area, Perimeter of a Rectangle
+5) Program to find Area, Perimeter of a Rectangle
 
 #include<stdio.h>
 int main()
@@ -114,7 +114,7 @@ Area of Sqare (or) Rectangle: = 1440.000
 Perimeter of Sqare (or) Rectangle: = 168.000
 
 
-5)Program to find Interest
+6)Program to find Interest
 
 #include<stdio.h>
 int main()
@@ -137,7 +137,7 @@ Enter The Time (in months): 3
 Simple Intesest is: = 480.00
 
 
-6) Program to find Maximum
+7) Program to find Maximum
 
 #include<stdio.h>
 int max(float x,float y);
@@ -167,7 +167,9 @@ Enter The Second Value: 4
 Maximum value is: 5.00
 
 
-Program of Sum of two Constants
+8 ) Program of Sum of two Constants
+
+
 #include<stdio.h>
 int main()
 {
@@ -182,7 +184,9 @@ b=120
 Sum of a and b is :220
 
 
-Program To find Minimum
+9) Program To find Minimum
+
+
 #include<stdio.h>
 int min(float x,float y);
 int main()
@@ -211,7 +215,9 @@ Enter The SecondValue: 3
 Minimum value is: 3.00
 
 
-Program to print Bio Data of Students
+10)  Program to print Bio Data of Students
+
+
 #include<stdio.h>
 int main()
 {
@@ -245,7 +251,9 @@ Name = Rohan
 Roll No. = 1914090
 
 
-Program to use Arithmetic Operators
+11) Program to use Arithmetic Operators
+
+
 #include<stdio.h>
 int main()
 {
@@ -279,7 +287,9 @@ x/y = 1.452
 y/x = 0.689
 
 
-Program to use Assignment Operators
+12)  Program to use Assignment Operators
+
+
 #include<stdio.h>
 int main()
 {
@@ -307,7 +317,9 @@ Answer is a*x = 2025.000
 Answer is a/x= 45.000
 
 
-Program to use Operator Precedence
+13)  Program to use Operator Precedence
+
+
 #include<stdio.h>
 int main()
 {
@@ -341,7 +353,9 @@ ad/(c-b-a) = -55.086
 (b-c)*(a-d) = -338.000
 
 
-Program to find Average
+14) Program to find Average
+
+
 #include<stdio.h>
 float average();
 int main()
@@ -379,7 +393,9 @@ Output of the program
 
 
 
-Program to find FizzBuzz od a Integer
+15) Program to find FizzBuzz od a Integer
+
+
 #include<stdio.h>
 int main()
 {
@@ -402,7 +418,9 @@ Fizz
 
 
 
-Program of print a Calculator using puts function
+16 ) Program of print a Calculator using puts function
+
+
 #include<stdio.h>
 void main()
 {
@@ -429,7 +447,9 @@ Output of the program
 
 
 
-Program to print a Face using puts function
+17)  Program to print a Face using puts function
+
+
 #include<stdio.h>
 void main()
 {
@@ -455,7 +475,9 @@ Output of the program
 
 
 
-Program of Addition of 2x2 Matrix
+18) Program of Addition of 2x2 Matrix
+
+
 
 #include<stdio.h>
 int main()
@@ -520,7 +542,9 @@ Substraction of Matrix(B-A) is: | -4.00 0.00 |
 
 
 
-Program of Multiplication of 2x2 Matrix
+19)  Program of Multiplication of 2x2 Matrix
+
+
 #include<stdio.h>
 int main()
 {
@@ -568,7 +592,9 @@ Multiplication of A,B is: | 66.00 40.00 |
 
 
 
-Program of FizzBuzz in a continues loop
+20) Program of FizzBuzz in a continues loop
+
+
 #include<stdio.h>
 int main()
 {
@@ -608,6 +634,3 @@ Fizz
 FizzBuzz
 16
 17
-Expand all
-Back to top
-Go to bottom
